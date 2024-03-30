@@ -1,16 +1,13 @@
-### Hi there 👋
+## Skillset
 
-<!--
-**robinmidgley/robinmidgley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages**
 
-Here are some ideas to get you started:
+![Languages](https://skillicons.dev/icons?i=js,ts,py,html,css,lua)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frameworks**
+
+![Frameworks](https://skillicons.dev/icons?i=nextjs,react,express,tailwind,flask)
+
+**Tools**
+
+![Tools](https://skillicons.dev/icons?i=github,figma,linux,vscode)
