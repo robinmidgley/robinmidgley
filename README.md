@@ -1,5 +1,3 @@
-## Skillset
-
 **Languages**
 
 ![Languages](https://skillicons.dev/icons?i=js,ts,py,html,css,lua)
