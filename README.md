@@ -8,4 +8,4 @@
 
 **Tools**
 
-![Tools](https://skillicons.dev/icons?i=github,figma,linux,vscode)
+![Tools](https://skillicons.dev/icons?i=github,figma,linux,vscode,mysql)
