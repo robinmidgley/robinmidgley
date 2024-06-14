@@ -1,6 +1,6 @@
 **Languages**
 
-![Languages](https://skillicons.dev/icons?i=js,py,html,css,lua)
+![Languages](https://skillicons.dev/icons?i=py,js,ts,html,css)
 
 **Frameworks**
 
